@@ -6,8 +6,8 @@
 	"description": "Change channels and screens, get feedback and names",
 	"version": "1.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/RubeusKirk/screencloud-module-companion.git",
-	"bugs": "https://github.com/bitfocus/screencloud-module-companion/issues",
+	"repository": "git+https://github.com/RubeusKirk/companion-module-screencloud.git",
+	"bugs": "https://github.com/RubeusKirk/companion-module-screencloud/issues",
 	"maintainers": [
 		{
 			"name": "Ruben Böttiner",
