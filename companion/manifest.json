@@ -1,6 +1,6 @@
 {
 	"$schema": "../node_modules/@companion-module/base/assets/manifest.schema.json",
-	"id": "screencloud-controller",
+	"id": "screencloud",
 	"name": "Screencloud Controller",
 	"shortname": "Screencloud",
 	"description": "Change channels and screens, get feedback and names",
