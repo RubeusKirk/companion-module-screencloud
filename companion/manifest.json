@@ -4,14 +4,14 @@
 	"name": "Screencloud Controller",
 	"shortname": "Screencloud",
 	"description": "Change channels and screens, get feedback and names",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"license": "MIT",
 	"repository": "git+https://github.com/RubeusKirk/companion-module-screencloud.git",
 	"bugs": "https://github.com/RubeusKirk/companion-module-screencloud/issues",
 	"maintainers": [
 		{
-			"name": "Ruben Böttiner",
-			"email": "r.boettinger@gmx.net"
+			"name": "Ruben Böttinger",
+			"email": "sc-ctrl-companion@gmx.net"
 		}
 	],
 	"runtime": {
